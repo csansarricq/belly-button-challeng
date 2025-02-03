@@ -1,1 +1,1 @@
-# belly-button-challeng
+# belly-button-challenge
